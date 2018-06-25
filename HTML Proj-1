@@ -1,9 +1,9 @@
 <body>
 
-<h1 id="h1">Want To Send A Secret Message To Someone?</h1>
+<h1 id="h1"><strong>Want To Send A Secret Message To Someone?</strong></h1>
 
 <div>
-<h3 id="h2">The History of Secret Messages</h3>
+<h3 id="h2"><em>The History of Secret Messages</em></h3>
 <p id="p1"> Secret messages have been around for hundreds of years.
 Spies used them to pass important information without being caught. 
 The next time you want to send a secret message use this fun idea!
@@ -11,7 +11,7 @@ The next time you want to send a secret message use this fun idea!
 </div>
 
 <div>
-<h3 id="h2">Things You Will Need</h3>
+<h3 id="h2"><em>Things You Will Need</em></h3>
 <ul>
 <li>A lemon</li>
 <li>A knife</li>
